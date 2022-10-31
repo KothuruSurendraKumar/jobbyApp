@@ -1,0 +1,75 @@
+.link-item {
+  text-decoration: none;
+  margin-bottom: 48px;
+  width: 350px;
+  flex-grow: 0;
+  flex-shrink: 1;
+  margin-right: 20px;
+}
+.job-card-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #202020;
+  margin: 5px;
+  border-radius: 5px;
+  padding: 5px;
+}
+.logo-container {
+  display: flex;
+  align-items: center;
+  margin-left: 15px;
+}
+.company-logo {
+  height: 35px;
+  width: 35px;
+}
+.name-container {
+  padding: 18px;
+}
+.rating-container {
+  display: flex;
+  align-items: center;
+}
+.title-head {
+  font-family: 'Roboto';
+  color: white;
+  padding: 0px;
+  font-weight: 800;
+}
+.desc {
+  font-family: 'Roboto';
+  color: white;
+  padding: 0px;
+  margin-left: 5px;
+}
+.star-icon {
+  color: #fbbf24;
+  margin-top: 0px;
+}
+.icon {
+  color: white;
+}
+.locs-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.type-container {
+  display: flex;
+  align-items: center;
+  margin-left: 18px;
+}
+.desc-pack {
+  font-family: 'Roboto';
+  color: white;
+  padding: 0px;
+  margin-right: 15px;
+}
+.desc-container {
+  padding: 8px;
+}
+.desc-text {
+  color: white;
+  font-family: 'Roboto';
+}
